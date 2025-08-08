@@ -63,12 +63,12 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 
 <div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B;">
   <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
-  Developed **SMILe App** — an AI-assisted app for children with ASD. Recognized for impact and user-centered design.
+ 
 </div>
 
 <div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
   <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
-  Built **Kidventure** — an educational app for kids, awarded for creativity and engagement.
+  
 </div>
 
 </td>
