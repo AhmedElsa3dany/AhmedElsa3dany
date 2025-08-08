@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsaadany</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Developer;Clean+Architecture+Advocate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Developer;Clean+Architecture" alt="Typing Animation" />
 </p>
 
 ---
