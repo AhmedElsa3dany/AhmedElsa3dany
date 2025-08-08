@@ -2,24 +2,23 @@
      Ahmed Elsaadany — README
 =========================== -->
 
-<!-- Horizontal Banner Style -->
-<p align="center" style="background-color:#ffcb2b; padding:20px; border-radius:15px;">
-  <span style="font-size:38px; font-weight:bold; color:#0050A0;">AHMED</span>
-  &nbsp;
-  <span style="font-size:30px; font-weight:bold; font-style:italic; color:white; background-color:#0050A0; padding:6px 12px; border-radius:8px;">ELSAADANY</span>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90" alt="Mobile Animation" />
-  &nbsp;&nbsp;
-  <span style="color:white; background-color:#0050A0; padding:8px 14px; border-radius:8px; font-weight:bold; font-size:18px;">📱 Mobile App | Flutter</span>
+<!-- Custom Gradient Header with SVG -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Engineer&descAlign=50&descAlignY=60" alt="Header"/>
+</p>
+
+<!-- Mobile Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Mobile Animation"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 **Software Engineering Student** @ New Mansoura University (GPA 3.6/4.0)  
-💼 **Flutter Developer** — Building high-quality cross-platform mobile apps with Dart & Firebase  
+🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
+💼 **Flutter Developer** — Creating high-quality cross-platform apps with Dart & Firebase  
 🏆 **1st Place** — Benha Hackathon & Creativa Marathon  
-🌟 Skilled in **Clean Architecture, State Management (BLoC, MVVM)**, REST APIs  
+🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
 
 ---
 
@@ -44,7 +43,7 @@
 - **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
 - **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
-- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utilities  
+- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utility apps  
 
 ---
 
