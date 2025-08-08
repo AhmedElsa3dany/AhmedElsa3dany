@@ -13,19 +13,27 @@
 <table>
   <tr>
     <!-- Text on the left -->
-    <td style="vertical-align: middle; width: 70%;">
-      <ul>
-        <li>🥇 <b>1st Place — Benha Hackathon</b><br>
-        <sub>(SMILe App — AI-powered autism assistant)</sub></li><br>
-        <li>🥇 <b>1st Place — Creativa Marathon</b><br>
-        <sub>(Kidventure — Educational kids app)</sub></li><br>
-        <li>🥇 <b>1st Place — University Competitions</b></li>
+    <td valign="middle" width="65%">
+      <ul style="margin:0; padding-left:18px;">
+        <li style="margin-bottom:12px;">
+          <strong>🥇 1st Place — Benha Hackathon</strong><br>
+          <small>SMILe App — AI-powered autism assistant</small>
+        </li>
+        <li style="margin-bottom:12px;">
+          <strong>🥇 1st Place — Creativa Marathon</strong><br>
+          <small>Kidventure — Educational kids app</small>
+        </li>
+        <li style="margin-bottom:12px;">
+          <strong>🥇 1st Place — University Competitions</strong><br>
+          <small>Multiple internal & campus-level hackathons</small>
+        </li>
       </ul>
     </td>
 
     <!-- Animation on the right -->
-    <td style="text-align: center; width: 30%;">
-      <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="120" alt="Shiny Medal" />
+    <td valign="middle" width="35%" align="center">
+      <!-- If you want full control, upload the GIF to your repo and replace this URL -->
+      <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" alt="Shiny Medal" width="140" style="max-width:100%; height:auto;" />
     </td>
   </tr>
 </table>
@@ -49,7 +57,7 @@
   <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF5733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -76,4 +84,5 @@
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logo
+  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
