@@ -57,34 +57,31 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 
 ## ‎﻿Achievements
 
-<table>
+<table style="width:100%; border-spacing:0;">
 <tr>
-<td width="60%" valign="top">
+<td style="width:65%; vertical-align:top; padding:0;">
 
-<div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B;">
-  <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
- 
+<div style="background:#FFF8E1; padding:16px; border-radius:12px; margin-bottom:16px; border-left:6px solid #FFEB3B; font-size:15px; line-height:1.5;">
+  <strong style="font-size:17px;">🥇 1st Place — Benha Hackathon</strong><br>
 </div>
 
-<div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
-  <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
-  
+<div style="background:#E8F5E9; padding:16px; border-radius:12px; margin-bottom:0; border-left:6px solid #4CAF50; font-size:15px; line-height:1.5;">
+  <strong style="font-size:17px;">🥇 1st Place — Creativa Marathon</strong><br>
 </div>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
-
-<img src="https://img.icons8.com/fluency/260/trophy.png" width="160" alt="Trophy" style="border-radius:8px;"/>
-
+<td style="width:35%; text-align:center; vertical-align:middle; padding:0;">
+<img src="https://img.icons8.com/fluency/260/trophy.png" width="140" alt="Trophy" style="border-radius:8px;"/>
 </td>
 </tr>
 </table>
 
 <!-- Thick separator -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+<p align="center" style="margin-top:18px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=10" alt="separator" />
 </p>
+
 
 ## ‎﻿Tech Stack
 <p align="center">
