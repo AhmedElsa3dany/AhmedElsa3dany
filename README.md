@@ -2,29 +2,24 @@
      Ahmed Elsaadany — README
 =========================== -->
 
-<!-- Name Section Styled -->
-<p align="center" style="background-color:#ffcb2b; padding:20px; border-radius:10px;">
-  <span style="font-size:40px; font-weight:bold; color:#0050A0;">AHMED</span>  
-  <span style="font-size:32px; font-weight:bold; font-style:italic; color:white; background-color:#0050A0; padding:5px 10px; border-radius:6px;">ELSAADANY</span>
-</p>
-
-<!-- Mobile Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Mobile Animation"/>
-</p>
-
-<!-- Title Container -->
-<p align="center" style="background-color:#0050A0; padding:10px 20px; border-radius:20px; display:inline-block;">
-  <span style="color:white; font-size:20px; font-weight:bold;">📱 Mobile App | Flutter</span>
+<!-- Horizontal Banner Style -->
+<p align="center" style="background-color:#ffcb2b; padding:20px; border-radius:15px;">
+  <span style="font-size:38px; font-weight:bold; color:#0050A0;">AHMED</span>
+  &nbsp;
+  <span style="font-size:30px; font-weight:bold; font-style:italic; color:white; background-color:#0050A0; padding:6px 12px; border-radius:8px;">ELSAADANY</span>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90" alt="Mobile Animation" />
+  &nbsp;&nbsp;
+  <span style="color:white; background-color:#0050A0; padding:8px 14px; border-radius:8px; font-weight:bold; font-size:18px;">📱 Mobile App | Flutter</span>
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 Software Engineering student at **New Mansoura University** (GPA **3.6/4.0**)  
-💼 Flutter Developer — Building cross-platform mobile apps with Dart & Firebase  
-🏆 1st Place — Benha Hackathon & Creativa Marathon  
-🌟 Focused on clean architecture, state management, and performance  
+🎓 **Software Engineering Student** @ New Mansoura University (GPA 3.6/4.0)  
+💼 **Flutter Developer** — Building high-quality cross-platform mobile apps with Dart & Firebase  
+🏆 **1st Place** — Benha Hackathon & Creativa Marathon  
+🌟 Skilled in **Clean Architecture, State Management (BLoC, MVVM)**, REST APIs  
 
 ---
 
@@ -42,6 +37,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+---
+
+## 📂 Featured Projects
+- **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
+- **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
+- **BookNest** — Reading app with MVVM & BLoC architecture  
+- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utilities  
 
 ---
 
