@@ -118,6 +118,13 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
+
+## 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElsa3dany&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
