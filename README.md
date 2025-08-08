@@ -2,12 +2,10 @@
      Ahmed Elsaadany — README
 =========================== -->
 
-<!-- Custom Gradient Header with SVG -->
+<!-- Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=50" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35" alt="Header"/>
 </p>
-
-
 
 ---
 
