@@ -57,7 +57,7 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 
 ## ‎﻿Achievements
 
-<table style="width:100%; border-spacing:0;">
+
 <tr>
 <td style="width:65%; vertical-align:top; padding:0;">
 
@@ -75,7 +75,7 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 <img src="https://img.icons8.com/fluency/260/trophy.png" width="140" alt="Trophy" style="border-radius:8px;"/>
 </td>
 </tr>
-</table>
+
 
 <!-- Thick separator -->
 <p align="center" style="margin-top:18px;">
