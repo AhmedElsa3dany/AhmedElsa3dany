@@ -7,19 +7,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35" alt="Header"/>
 </p>
 
+---
+
 ## ​ About Me
 🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
 💼 **Flutter Developer** — Building high-quality cross-platform apps with Dart & Firebase  
 🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
 
+---
+
 ## ​ Achievements
+
 <table>
 <tr>
 <td width="60%" valign="top">
 
-> <div style="background-color:#FFEB3B; padding:10px; border-radius:8px; margin-bottom:8px;"><strong>🥇 1st Place — Benha Hackathon</strong><br>Developed **SMILe App** — AI-powered autism assistant recognized for innovation and user-centric design.</div>
+> <div style="background-color:#FFEB3B; padding:10px; border-radius:8px; margin-bottom:8px;"><strong>🥇 1st Place — Benha Hackathon</strong><br>Developed **SMILe App** — Autism assistant with smart interaction & user-friendly design.</div>
 
-> <div style="background-color:#4CAF50; padding:10px; border-radius:8px;"><strong>🥇 1st Place — Creativa Marathon</strong><br>Built **Kidventure** — educational kids app celebrated for creativity and engagement.</div>
+> <div style="background-color:#4CAF50; padding:10px; border-radius:8px;"><strong>🥇 1st Place — Creativa Marathon</strong><br>Built **Kidventure** — Interactive educational app for children, focusing on engagement and creativity.</div>
 
 </td>
 <td width="40%" align="center">
@@ -29,6 +34,8 @@
 </td>
 </tr>
 </table>
+
+---
 
 ## ​ Tech Stack
 <p align="center">
@@ -45,17 +52,23 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
+
 ## ​ Featured Projects
 - **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
 - **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
 - **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utility apps  
 
+---
+
 ## ​ GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
+---
 
 ## ​ Contact Me
 <p align="center">
