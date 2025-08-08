@@ -10,24 +10,25 @@
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <!-- Animated Medal SVG (Shiny Effect) -->
-  <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="100" alt="Shiny Medal" />
-</p>
+<table>
+  <tr>
+    <!-- Text on the left -->
+    <td style="vertical-align: middle; width: 70%;">
+      <ul>
+        <li>🥇 <b>1st Place — Benha Hackathon</b><br>
+        <sub>(SMILe App — AI-powered autism assistant)</sub></li><br>
+        <li>🥇 <b>1st Place — Creativa Marathon</b><br>
+        <sub>(Kidventure — Educational kids app)</sub></li><br>
+        <li>🥇 <b>1st Place — University Competitions</b></li>
+      </ul>
+    </td>
 
-<p align="center">
-  <b>🥇 1st Place — Benha Hackathon</b><br>
-  <sub>(SMILe App — AI-powered autism assistant)</sub>
-</p>
-
-<p align="center">
-  <b>🥇 1st Place — Creativa Marathon</b><br>
-  <sub>(Kidventure — Educational kids app)</sub>
-</p>
-
-<p align="center">
-  <b>🥇 1st Place — University Competitions</b>
-</p>
+    <!-- Animation on the right -->
+    <td style="text-align: center; width: 30%;">
+      <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="120" alt="Shiny Medal" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF5733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -75,5 +76,4 @@
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logo
