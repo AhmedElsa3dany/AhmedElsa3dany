@@ -9,15 +9,24 @@
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKy9v8jP6dXgQW0/giphy.gif" width="90" alt="Medal Animation" />
+  <!-- Animated Medal SVG (Shiny Effect) -->
+  <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="100" alt="Shiny Medal" />
 </p>
 
 <p align="center">
-  🥇 <b>1st Place</b> — Benha Hackathon (SMILe App — AI-powered autism assistant) <br>
-  🥇 <b>1st Place</b> — Creativa Marathon (Kidventure — Educational kids app) <br>
-  🥇 <b>1st Place</b> — Multiple University Competitions
+  <b>🥇 1st Place — Benha Hackathon</b><br>
+  <sub>(SMILe App — AI-powered autism assistant)</sub>
+</p>
+
+<p align="center">
+  <b>🥇 1st Place — Creativa Marathon</b><br>
+  <sub>(Kidventure — Educational kids app)</sub>
+</p>
+
+<p align="center">
+  <b>🥇 1st Place — University Competitions</b>
 </p>
 
 ---
