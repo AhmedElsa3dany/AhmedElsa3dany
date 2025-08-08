@@ -9,33 +9,10 @@
 
 ---
 
-## 🏆 Achievements
-<table width="100%">
-<tr>
-<td align="left" valign="middle" width="60%">
-
-**🥇 1st Place — Benha Hackathon**  
-<sub>(SMILe App — AI-powered autism assistant)</sub>  
-
-**🥇 1st Place — Creativa Marathon**  
-<sub>(Kidventure — Educational kids app)</sub>  
-
-**🥇 1st Place — University Competitions**  
-
-</td>
-<td align="right" valign="middle" width="40%">
-
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" height="200" alt="Celebration Animation" />
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 About Me
 🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
 💼 **Flutter Developer** — Creating high-quality cross-platform apps with Dart & Firebase  
+🏆 **1st Place** — Benha Hackathon & Creativa Marathon  
 🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
 
 ---
@@ -54,6 +31,31 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+---
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="60%">
+
+### 🥇 1st Place — Benha Hackathon  
+- Developed **SMILe App** — AI-powered autism assistant helping children with ASD in Egypt.  
+- Recognized for innovation, impact, and user-friendly design.  
+
+### 🥇 1st Place — Creativa Marathon  
+- Built **Kidventure** — an educational mobile app for kids with interactive learning features.  
+- Won for creativity and engagement in education technology.  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" alt="Celebration Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
