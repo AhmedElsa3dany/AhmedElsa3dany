@@ -4,12 +4,12 @@
 
 <!-- Custom Gradient Header with SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Engineer&descAlign=50&descAlignY=60" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=50" alt="Header"/>
 </p>
 
-<!-- Mobile Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Mobile Animation"/>
+<!-- Mobile Animation (Centered in Same Width as Header) -->
+<p align="center" style="background-color:#0050A0; padding:10px; border-radius:10px; width:fit-content; margin:auto;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Mobile Animation" />
 </p>
 
 ---
