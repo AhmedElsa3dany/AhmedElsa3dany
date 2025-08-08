@@ -2,26 +2,30 @@
      Ahmed Elsaadany — README
 =========================== -->
 
-<!-- Header with animation -->
+<!-- Header with typing animation -->
 <h1 align="center">Hi 👋, I'm Ahmed Elsaadany</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%26+Dart+Specialist;Flutter Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Developer;Clean+Architecture+Advocate" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 Software Engineering Student @ New Mansoura University (GPA 3.6/4.0)  
-💼 Mobile App Developer — Flutter, Dart, Firebase  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920235.png" width="90" style="animation:shake 1s infinite;" alt="Mobile Icon"/>
+</p>
+
+🎓 **Software Engineering** student at **New Mansoura University** (GPA: **3.6/4.0**)  
+💼 **Flutter Developer** — Building cross-platform mobile apps with Dart & Firebase  
 🏆 1st Place — Benha Hackathon & Creativa Marathon  
-📌 Passionate about building **clean, scalable, and user-friendly apps**  
+📌 Passionate about **creating user-friendly, beautiful, and scalable apps**  
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <!-- Languages -->
+  <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -39,9 +43,9 @@
 
 ## 📂 Featured Projects
 - **SMILe App** — AI-powered autism assistant app *(1st Place — Benha Hackathon)*  
-- **Kidventure** — Educational kids app with interactive learning *(1st Place — Creativa Marathon)*  
+- **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
-- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Utility Flutter apps  
+- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utilities  
 
 ---
 
