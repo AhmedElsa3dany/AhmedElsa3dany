@@ -11,8 +11,29 @@
 
 ## ​ About Me
 🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
-💼 **Flutter Developer** — Creating high-quality cross-platform apps with Dart & Firebase  
+💼 **Flutter Developer** — Building high-quality cross-platform apps with Dart & Firebase  
 🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
+
+---
+
+## ​ Achievements
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+> <div style="background-color:#FFEB3B; padding:10px; border-radius:8px; margin-bottom:8px;"><strong>🥇 1st Place — Benha Hackathon</strong><br>Developed **SMILe App** — AI-powered autism assistant recognized for innovation and user-centric design.</div>
+
+> <div style="background-color:#4CAF50; padding:10px; border-radius:8px;"><strong>🥇 1st Place — Creativa Marathon</strong><br>Built **Kidventure** — educational kids app celebrated for creativity and engagement.</div>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" alt="Celebration Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,30 +51,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
----
-
-## ​ Achievements
-<div align="center" style="border: 2px solid #0066ff; border-radius: 12px; padding: 12px; background-color: #f9f9f9;">
-<table>
-<tr>
-<td width="60%" valign="middle">
-
-### ​ 1st Place — Benha Hackathon  
-- Developed **SMILe App** — AI-powered autism assistant.  
-- Recognized for innovation and impact.
-
-### ​ 1st Place — Creativa Marathon  
-- Created **Kidventure** — Educational app for kids.  
-- Won for creativity and engagement.
-
-</td>
-<td width="40%" align="center">
-  <img src="https://i.imgur.com/lhOpfNq.gif" width="180" alt="Celebration Animation"/>
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -79,4 +76,3 @@
   <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
