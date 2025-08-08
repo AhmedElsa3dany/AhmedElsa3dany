@@ -3,10 +3,10 @@
      Width-aligned header, typing and mobile animation (720px)
 =========================== -->
 
-<!-- 1) Stylish Animated Header (width = 720) -->
+<!-- 1) Stylish Animated Header (shorter height) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&height=180&width=720&color=0:00c6ff,100:0072ff&text=Ahmed%20Elsaadany&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=55&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=wave&height=150&width=720&color=0:00c6ff,100:0072ff&text=Ahmed%20Elsaadany&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=55&descAlign=50"
     alt="header"
     width="720"
   />
