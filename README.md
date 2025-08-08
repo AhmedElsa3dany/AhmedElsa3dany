@@ -32,7 +32,7 @@ I am a **Flutter Developer** building scalable cross-platform mobile apps with a
 - Remote / Freelance / Internship opportunities  
 - Prefer roles focusing on Mobile features, product delivery, or platform optimization
 
-    </td>
+  
 
     <!-- RIGHT: quick info & badges -->
     <td width="35%" valign="top" align="center">
