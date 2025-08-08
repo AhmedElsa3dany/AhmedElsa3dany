@@ -76,7 +76,7 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## 🛠 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
