@@ -57,36 +57,34 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 
 ## ‎﻿Achievements
 
-<div style="width:100%; box-sizing:border-box; margin: 8px 0 20px;">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <!-- Left: texts (stacked) -->
-  <div style="display:inline-block; vertical-align:top; width:64%; min-width:220px; box-sizing:border-box; padding-right:18px;">
-
-    <div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B; box-shadow:0 2px 6px rgba(0,0,0,0.06);">
-      <strong style="font-size:15px; line-height:1.3; display:block;">🥇 1st Place — Benha Hackathon</strong>
-      <p style="margin:8px 0 0; color:#333; font-size:13px;">Developed <strong>SMILe App</strong> — an AI-assisted app for children with ASD.</p>
-    </div>
-
-    <div style="background:#E8F5E9; padding:14px; border-radius:10px; border-left:6px solid #4CAF50; box-shadow:0 2px 6px rgba(0,0,0,0.06);">
-      <strong style="font-size:15px; line-height:1.3; display:block;">🥇 1st Place — Creativa Marathon</strong>
-      <p style="margin:8px 0 0; color:#333; font-size:13px;">Built <strong>Kidventure</strong> — an educational app for kids.</p>
-    </div>
-
-  </div>
-
-  <!-- Right: image -->
-  <div style="display:inline-block; vertical-align:middle; width:34%; min-width:120px; text-align:center; box-sizing:border-box; padding-left:8px;">
-    <img src="https://img.icons8.com/fluency/260/trophy.png" alt="Trophy" style="width:150px; max-width:100%; height:auto; border-radius:8px;"/>
-  </div>
-
+<div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B;">
+  <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
+  Developed **SMILe App** — an AI-assisted app for children with ASD. Recognized for impact and user-centered design.
 </div>
 
-<!-- Separator -->
-<p align="center" style="margin-top:6px;">
+<div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
+  <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
+  Built **Kidventure** — an educational app for kids, awarded for creativity and engagement.
+</div>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://img.icons8.com/fluency/260/trophy.png" width="160" alt="Trophy" style="border-radius:8px;"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Thick separator -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
-
-
 
 ## ‎﻿Tech Stack
 <p align="center">
