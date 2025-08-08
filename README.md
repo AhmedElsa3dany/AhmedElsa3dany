@@ -52,31 +52,7 @@ I am a **Flutter Developer** focused on building scalable, high-performance cros
   <img src="https://img.shields.io/badge/Phone-%2B20%20101%20692%202983-007ACC?style=for-the-badge&logo=phone" alt="Phone"/><br><br>
 </p>
 
-<!-- Compact personal info -->
-<p align="left" style="line-height:1.5;">
-<strong>Education:</strong><br>
-New Mansoura University — B.Sc. Software Engineering (Expected 2026)<br><br>
 
-<strong>GPA:</strong> 3.6 / 4.0<br><br>
-
-<strong>Languages:</strong><br>
-Arabic (native) • English (fluent)<br><br>
-
-<strong>Ambassador:</strong><br>
-Huawei Cloud Ambassador<br><br>
-
-<strong>Availability:</strong><br>
-Immediate (projects & interviews)
-</p>
-
-    </td>
-  </tr>
-</table>
-
-<!-- Thick separator -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
-</p>
 
 ## ‎﻿Achievements
 
