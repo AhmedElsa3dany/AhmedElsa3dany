@@ -52,7 +52,7 @@
 
 <!-- Thick separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=2" alt="separator" />
 </p>
 
 ## ​ Tech Stack
