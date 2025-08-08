@@ -2,35 +2,34 @@
      Ahmed Elsaadany — README
 =========================== -->
 
-<!-- Header with typing animation -->
-<h1 align="center">Hi 👋, I'm Ahmed Elsaadany</h1>
-
+<!-- Stylish Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+Developer;Clean+Architecture" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:00c6ff,100:0072ff&text=Ahmed%20Elsaadany&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=55&descAlign=50" alt="header" />
+</p>
+
+<!-- Mobile Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Mobile animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920235.png" width="90" style="animation:shake 1s infinite;" alt="Mobile Icon"/>
-</p>
-
-🎓 **Software Engineering** student at **New Mansoura University** (GPA: **3.6/4.0**)  
-💼 **Flutter Developer** — Building cross-platform mobile apps with Dart & Firebase  
-🏆 1st Place — Benha Hackathon & Creativa Marathon  
-📌 Passionate about **creating user-friendly, beautiful, and scalable apps**  
+🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
+💼 **Flutter Developer** — Creating high-quality cross-platform mobile apps  
+🏆 **1st Place** — Benha Hackathon & Creativa Marathon  
+💡 Strong background in **Clean Architecture, State Management (BLoC, MVVM)** and REST APIs  
+🌟 Focused on **performance, scalability, and user experience**  
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF5733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -42,10 +41,10 @@
 ---
 
 ## 📂 Featured Projects
-- **SMILe App** — AI-powered autism assistant app *(1st Place — Benha Hackathon)*  
+- **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
 - **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
-- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utilities  
+- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utility apps  
 
 ---
 
