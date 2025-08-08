@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## 👨‍💻 About Me
+##  About Me
 
 **Professional Summary**  
 I'm a **Flutter Developer** building scalable cross-platform mobile applications with focus on performance, maintainability, and excellent user experience.  
@@ -55,7 +55,7 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
   <img src="https://img.icons8.com/fluency/260/trophy.png" width="160" alt="Trophy" style="border-radius:8px; margin-bottom:20px;"/>
@@ -96,7 +96,7 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 - **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
 - **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
@@ -107,7 +107,7 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## 📊 GitHub Highlights
+##  GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -119,13 +119,13 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 </p>
 
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AhmedElsa3dany&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 
-## 📬 Contact Me
+##  Contact Me
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;
