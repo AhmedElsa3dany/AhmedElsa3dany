@@ -57,30 +57,33 @@ I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and i
 
 ## ‎﻿Achievements
 
+<div style="display:flex; align-items:center; justify-content:space-between; gap:20px; flex-wrap:wrap;">
 
-<tr>
-<td style="width:65%; vertical-align:top; padding:0;">
+  <!-- النصوص -->
+  <div style="flex:1; min-width:250px;">
 
-<div style="background:#FFF8E1; padding:16px; border-radius:12px; margin-bottom:16px; border-left:6px solid #FFEB3B; font-size:15px; line-height:1.5;">
-  <strong style="font-size:17px;">🥇 1st Place — Benha Hackathon</strong><br>
+    <div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:14px; border-left:6px solid #FFEB3B; box-shadow:0 2px 5px rgba(0,0,0,0.08);">
+      <strong style="font-size:16px;">🥇 1st Place — Benha Hackathon</strong>
+    </div>
+
+    <div style="background:#E8F5E9; padding:14px; border-radius:10px; border-left:6px solid #4CAF50; box-shadow:0 2px 5px rgba(0,0,0,0.08);">
+      <strong style="font-size:16px;">🥇 1st Place — Creativa Marathon</strong>
+    </div>
+
+  </div>
+
+  <!-- الصورة -->
+  <div style="flex-shrink:0; text-align:center;">
+    <img src="https://img.icons8.com/fluency/260/trophy.png" width="150" alt="Trophy" style="border-radius:8px; max-width:100%;"/>
+  </div>
+
 </div>
 
-<div style="background:#E8F5E9; padding:16px; border-radius:12px; margin-bottom:0; border-left:6px solid #4CAF50; font-size:15px; line-height:1.5;">
-  <strong style="font-size:17px;">🥇 1st Place — Creativa Marathon</strong><br>
-</div>
-
-</td>
-
-<td style="width:35%; text-align:center; vertical-align:middle; padding:0;">
-<img src="https://img.icons8.com/fluency/260/trophy.png" width="140" alt="Trophy" style="border-radius:8px;"/>
-</td>
-</tr>
-
-
-<!-- Thick separator -->
-<p align="center" style="margin-top:18px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=10" alt="separator" />
+<!-- فاصل -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
+
 
 
 ## ‎﻿Tech Stack
