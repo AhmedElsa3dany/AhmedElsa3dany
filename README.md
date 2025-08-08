@@ -14,45 +14,95 @@
 
 ## ‎﻿About Me
 
-<table>
+<table width="100%">
   <tr>
-    <!-- LEFT: professional summary -->
-    <td width="65%" valign="top">
+    <!-- LEFT: professional summary (text) -->
+    <td width="65%" valign="top" style="padding-right:18px;">
 
 **Professional summary**  
-I am a **Flutter Developer** focused on building scalable, high-performance cross-platform mobile apps. I design clean UI, implement maintainable architectures (Clean Architecture, BLoC / MVVM), and ship production-ready features using Firebase and robust state management.
+I am a **Flutter Developer** building scalable cross-platform mobile applications with a focus on performance, maintainability, and excellent user experience. I follow Clean Architecture, use BLoC / MVVM for state management, and integrate Firebase & REST APIs for production-ready apps.
 
-**Core strengths**
-- ✅ Strong Flutter & Dart skills (UI, animations, state management, testing)  
-- ✅ Delivering end-to-end mobile features: backend integration, CI/CD, publish-ready builds  
-- ✅ Clean, testable code and disciplined Git workflow (feature branches & PRs)  
-- ✅ Fast at prototyping and iterating with product feedback
+**What I bring**
+- ✅ Strong UI implementation with Flutter & Dart  
+- ✅ State management (BLoC / MVVM) — testable code & clean architecture  
+- ✅ Real product experience — hackathon winner & shipped apps  
+- ✅ Good team workflow: feature branches, PRs, code reviews
 
-**What I'm looking for**
-- Roles: Mobile Engineer, Flutter Developer, Product-focused Mobile roles  
-- Open to: Full-time, Remote, Freelance, Internship
+**Preferred roles**
+- Mobile Developer (Flutter) • Product-focused feature work • Optimization & performance
 
     </td>
 
-    <!-- RIGHT: expanded quick info & badges (no animated images) -->
-    <td width="35%" valign="top" align="center">
+    <!-- RIGHT: images / badges only (no plain text) -->
+    <td width="35%" valign="top" align="center" style="padding-left:12px;">
 
-<!-- Open / Quick badges -->
+<!-- Row 1: Contact & Social -->
 <p>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=for-the-badge&logo=briefcase" alt="Open to Work"/><br><br>
-
-  <img src="https://img.shields.io/badge/Location-Egypt-ffcc00?style=for-the-badge&logo=map&logoColor=white" alt="Location"/><br><br>
-
-  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedelsaadany16112003%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a><br><br>
-
-  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a><br><br>
-
-  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-@AhmedElsa3dany-181717?style=for-the-badge&logo=github" alt="GitHub"/></a><br><br>
-
-  <img src="https://img.shields.io/badge/Phone-%2B20%20101%20692%202983-007ACC?style=for-the-badge&logo=phone" alt="Phone"/><br><br>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p style="margin-top:8px;">
+  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
+<p style="margin-top:8px;">
+  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<hr style="border:none; height:12px; background:linear-gradient(90deg, #ffcc00, #0066ff); margin:12px 0;">
+
+<!-- Row 2: Status & Location & Availability -->
+<p>
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=briefcase" alt="Open to Work" />
+</p>
+
+<p style="margin-top:8px;">
+  <img src="https://img.shields.io/badge/Location-Egypt-ffcc00?style=for-the-badge" alt="Location" />
+</p>
+
+<p style="margin-top:8px;">
+  <img src="https://img.shields.io/badge/GPA-3.6%20%2F%204.0-0066ff?style=for-the-badge" alt="GPA" />
+</p>
+
+<hr style="border:none; height:12px; background:linear-gradient(90deg, #ffcc00, #0066ff); margin:12px 0;">
+
+<!-- Row 3: Roles / Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Role-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Role" />
+</p>
+
+<p style="margin-top:8px;">
+  <img src="https://img.shields.io/badge/Huawei%20Ambassador-0a74ff?style=for-the-badge" alt="Huawei Ambassador" />
+</p>
+
+<p style="margin-top:8px;">
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-FF6F00?style=for-the-badge" alt="Hackathon Winner" />
+</p>
+
+<hr style="border:none; height:12px; background:linear-gradient(90deg, #ffcc00, #0066ff); margin:12px 0;">
+
+<!-- Row 4: Availability & CV -->
+<p>
+  <img src="https://img.shields.io/badge/Freelance-Available-00b894?style=for-the-badge" alt="Freelance" />
+</p>
+
+<p style="margin-top:8px;">
+  <!-- Replace 'Ahmed_Elsaadany_CV.pdf' with the actual file in your repo to enable download -->
+  <a href="./Ahmed_Elsaadany_CV.pdf" download><img src="https://img.shields.io/badge/Download%20CV-PDF-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="Download CV" /></a>
+</p>
+
+<p style="margin-top:8px;">
+  <img src="https://img.shields.io/badge/Timezone-Africa%2FCairo-0066ff?style=for-the-badge" alt="Timezone" />
+</p>
+
+    </td>
+  </tr>
+</table>
+
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ‎﻿Achievements
 
@@ -62,20 +112,20 @@ I am a **Flutter Developer** focused on building scalable, high-performance cros
 
 <div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B;">
   <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
-  Developed <strong>SMILe App</strong> — an assistant app for children with ASD. Recognized for impact and user-centered design.
+  Developed **SMILe App** — an AI-assisted app for children with ASD. Recognized for impact and user-centered design.
 </div>
 
 <div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
   <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
-  Built <strong>Kidventure</strong> — an educational app for kids, awarded for creativity and engagement.
+  Built **Kidventure** — an educational app for kids, awarded for creativity and engagement.
 </div>
 
 </td>
 
 <td width="40%" align="center" valign="middle">
 
-<!-- Celebration GIF (people cheering, cups) -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="260" alt="Celebration - people cheering with cups" style="border-radius:8px;"/>
+<!-- Static celebration image (non-animated) -->
+<img src="https://img.icons8.com/fluency/260/trophy.png" width="160" alt="Trophy" style="border-radius:8px;"/>
 
 </td>
 </tr>
@@ -91,11 +141,14 @@ I am a **Flutter Developer** focused on building scalable, high-performance cros
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <!-- Thick separator -->
@@ -104,10 +157,10 @@ I am a **Flutter Developer** focused on building scalable, high-performance cros
 </p>
 
 ## ‎﻿Featured Projects
-- **SMILe App** — assistant for children with ASD *(1st Place — Benha Hackathon)*  
-- **Kidventure** — educational kids app *(1st Place — Creativa Marathon)*  
-- **BookNest** — reading app with MVVM & BLoC architecture  
-- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utilities  
+- **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
+- **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
+- **BookNest** — Reading app with MVVM & BLoC architecture  
+- **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utility apps  
 
 <!-- Thick separator -->
 <p align="center">
@@ -128,6 +181,8 @@ I am a **Flutter Developer** focused on building scalable, high-performance cros
 ## ‎﻿Contact Me
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
