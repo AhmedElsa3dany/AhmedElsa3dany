@@ -14,12 +14,11 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
 💼 **Flutter Developer** — Creating high-quality cross-platform mobile apps  
 🏆 **1st Place** — Benha Hackathon & Creativa Marathon  
 💡 Strong background in **Clean Architecture, State Management (BLoC, MVVM)** and REST APIs  
-🌟 Focused on **performance, scalability, and user experience**  
 
 ---
 
