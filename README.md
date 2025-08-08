@@ -1,46 +1,30 @@
 <!-- ===========================
      Ahmed Elsaadany — README
-     Width-aligned header, typing and mobile animation (720px)
 =========================== -->
 
-<!-- 1) Stylish Animated Header (shorter height) -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&height=150&width=720&color=0:00c6ff,100:0072ff&text=Ahmed%20Elsaadany&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=55&descAlign=50"
-    alt="header"
-    width="720"
-  />
+<!-- Name Section Styled -->
+<p align="center" style="background-color:#ffcb2b; padding:20px; border-radius:10px;">
+  <span style="font-size:40px; font-weight:bold; color:#0050A0;">AHMED</span>  
+  <span style="font-size:32px; font-weight:bold; font-style:italic; color:white; background-color:#0050A0; padding:5px 10px; border-radius:6px;">ELSAADANY</span>
 </p>
 
-<!-- 2) Typing animation (same width) -->
+<!-- Mobile Animation -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&width=720&lines=Building+scalable+mobile+apps%3B+Clean+Architecture+advocate%3B+Flutter+%26+Dart"
-    alt="typing animation"
-    width="720"
-  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Mobile Animation"/>
 </p>
 
-<!-- 3) Mobile GIF animation (same width) -->
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Mobile animation"
-    width="720"
-  />
+<!-- Title Container -->
+<p align="center" style="background-color:#0050A0; padding:10px 20px; border-radius:20px; display:inline-block;">
+  <span style="color:white; font-size:20px; font-weight:bold;">📱 Mobile App | Flutter</span>
 </p>
 
 ---
 
 ## 🚀 About Me
-<table align="center" width="720"><tr><td>
-<p align="center">
-I’m a **Flutter Developer** and Software Engineering student at **New Mansoura University** (GPA 3.6/4.0).  
-I build high-quality cross-platform mobile apps focusing on **performance**, **clean architecture**, and **excellent UX**.  
-Proven track record in hackathons (Winner — Benha Hackathon & Creativa Marathon).  
-Looking for opportunities in mobile development and product-focused teams.
-</p>
-</td></tr></table>
+🎓 Software Engineering student at **New Mansoura University** (GPA **3.6/4.0**)  
+💼 Flutter Developer — Building cross-platform mobile apps with Dart & Firebase  
+🏆 1st Place — Benha Hackathon & Creativa Marathon  
+🌟 Focused on clean architecture, state management, and performance  
 
 ---
 
@@ -61,33 +45,17 @@ Looking for opportunities in mobile development and product-focused teams.
 
 ---
 
-## 📂 Selected Projects
-<p align="center">
-<strong>SMILe App</strong> — Autism assistant app (1st — Benha Hackathon)  <br><br>
-<strong>Kidventure</strong> — Educational kids app (1st — Creativa Marathon)  <br><br>
-<strong>BookNest</strong> — Reading app (MVVM & BLoC)  <br><br>
-Utilities: TicTacToe, Calculator, Stopwatch, QR Scanner
-</p>
-
----
-
 ## 📊 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="340" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="340" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElsa3dany&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 <p align="center">
-  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  &nbsp;
-  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
