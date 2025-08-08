@@ -7,36 +7,72 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35" alt="Header"/>
 </p>
 
-<!-- Thick separator (gradient bar) -->
+<!-- Thick separator -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## ​ About Me
-🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
-💼 **Flutter Developer** — Building high-quality cross-platform apps with Dart & Firebase  
-🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
+## ‎﻿About Me
+
+<table>
+  <tr>
+    <!-- LEFT: professional summary -->
+    <td width="65%" valign="top">
+
+**Professional summary**  
+I am a **Flutter Developer** building scalable cross-platform mobile apps with a strong focus on performance, maintainability, and user experience. I use Clean Architecture, BLoC / MVVM patterns, and Firebase to deliver production-ready features.
+
+**What I bring**
+- ✅ Solid Flutter & Dart implementation skills (UI, state management, testing)  
+- ✅ Experience shipping apps (hackathon winners: SMILe, Kidventure)  
+- ✅ Clean, testable code and clear Git workflow (feature branches & PRs)  
+- ✅ Fast learner, team player, and able to turn product ideas into working apps
+
+**Work preferences**
+- Remote / Freelance / Internship opportunities  
+- Prefer roles focusing on Mobile features, product delivery, or platform optimization
+
+    </td>
+
+    <!-- RIGHT: quick info & badges -->
+    <td width="35%" valign="top" align="center">
+
+<!-- Compact info box (badges + small notes) -->
+<p>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=for-the-badge&logo=briefcase" alt="Open to Work"/><br><br>
+  <img src="https://img.shields.io/badge/Experience-Hackathons%20%26%20Projects-0066ff?style=for-the-badge" alt="Experience"/><br><br>
+  <img src="https://img.shields.io/badge/Location-Egypt-ffcc00?style=for-the-badge" alt="Location"/><br><br>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedelsaadany16112003%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+<!-- Small profile / phone visual -->
+<p>
+  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="140" alt="mobile-illustration" style="border-radius:8px;" />
+</p>
+
+    </td>
+  </tr>
+</table>
 
 <!-- Thick separator -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## ​ Achievements
+## ‎﻿Achievements
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-<!-- Colored achievement boxes -->
 <div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B;">
   <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
-  <span>Developed <strong>SMILe App</strong> — an AI-assisted app for children with ASD. Recognized for impact and user-centered design.</span>
+  Developed **SMILe App** — an AI-assisted app for children with ASD. Recognized for impact and user-centered design.
 </div>
 
 <div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
   <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
-  <span>Built <strong>Kidventure</strong> — an educational app for kids, awarded for creativity and engagement.</span>
+  Built **Kidventure** — an educational app for kids, awarded for creativity and engagement.
 </div>
 
 </td>
@@ -52,10 +88,10 @@
 
 <!-- Thick separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=2" alt="separator" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## ​ Tech Stack
+## ‎﻿Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -75,7 +111,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## ​ Featured Projects
+## ‎﻿Featured Projects
 - **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
 - **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
@@ -86,7 +122,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## ​ GitHub Highlights
+## ‎﻿GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -97,7 +133,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
 </p>
 
-## ​ Contact Me
+## ‎﻿Contact Me
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
