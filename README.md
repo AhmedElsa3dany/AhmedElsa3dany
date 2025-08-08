@@ -4,17 +4,23 @@
 
 <!-- Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20|%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35" alt="Header"/>
 </p>
 
----
+<!-- Thick separator (gradient bar) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ​ About Me
 🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
 💼 **Flutter Developer** — Building high-quality cross-platform apps with Dart & Firebase  
 🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
 
----
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ​ Achievements
 
@@ -22,21 +28,32 @@
 <tr>
 <td width="60%" valign="top">
 
-> <div style="background-color:#FFEB3B; padding:10px; border-radius:8px; margin-bottom:8px;"><strong>🥇 1st Place — Benha Hackathon</strong><br>Developed **SMILe App** — AI-powered autism assistant recognized for innovation and user-centric design.</div>
+<!-- Colored achievement boxes -->
+<div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #FFEB3B;">
+  <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
+  <span>Developed <strong>SMILe App</strong> — an AI-assisted app for children with ASD. Recognized for impact and user-centered design.</span>
+</div>
 
-> <div style="background-color:#4CAF50; padding:10px; border-radius:8px;"><strong>🥇 1st Place — Creativa Marathon</strong><br>Built **Kidventure** — educational kids app celebrated for creativity and engagement.</div>
+<div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
+  <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
+  <span>Built <strong>Kidventure</strong> — an educational app for kids, awarded for creativity and engagement.</span>
+</div>
 
 </td>
-<td width="40%" align="center">
 
-<!-- Replaced celebration GIF (confetti / people celebrating) -->
-<img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="250" alt="Celebration Animation"/>
+<td width="40%" align="center" valign="middle">
+
+<!-- Celebration GIF: people raising cups / cheering -->
+<img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="260" alt="Celebration - people cheering with cups" style="border-radius:8px;"/>
 
 </td>
 </tr>
 </table>
 
----
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ​ Tech Stack
 <p align="center">
@@ -53,7 +70,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ​ Featured Projects
 - **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
@@ -61,7 +81,10 @@
 - **BookNest** — Reading app with MVVM & BLoC architecture  
 - **TicTacToe, Calculator, Stopwatch, QR Scanner** — Flutter utility apps  
 
----
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ​ GitHub Highlights
 <p align="center">
@@ -69,7 +92,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
----
+<!-- Thick separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+</p>
 
 ## ​ Contact Me
 <p align="center">
