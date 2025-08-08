@@ -9,15 +9,14 @@
 
 ---
 
-## 🚀 About Me
+## ​ About Me
 🎓 **Software Engineering** student @ New Mansoura University (GPA **3.6/4.0**)  
 💼 **Flutter Developer** — Creating high-quality cross-platform apps with Dart & Firebase  
-🏆 **1st Place** — Benha Hackathon & Creativa Marathon  
 🌟 Expertise: Clean Architecture, BLoC, MVVM, REST APIs, UI/UX  
 
 ---
 
-## 🛠 Tech Stack
+## ​ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -34,32 +33,31 @@
 
 ---
 
-## 🏆 Achievements
-
+## ​ Achievements
+<div align="center" style="border: 2px solid #0066ff; border-radius: 12px; padding: 12px; background-color: #f9f9f9;">
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="middle">
 
-### 🥇 1st Place — Benha Hackathon  
-- Developed **SMILe App** — AI-powered autism assistant helping children with ASD in Egypt.  
-- Recognized for innovation, impact, and user-friendly design.  
+### ​ 1st Place — Benha Hackathon  
+- Developed **SMILe App** — AI-powered autism assistant.  
+- Recognized for innovation and impact.
 
-### 🥇 1st Place — Creativa Marathon  
-- Built **Kidventure** — an educational mobile app for kids with interactive learning features.  
-- Won for creativity and engagement in education technology.  
+### ​ 1st Place — Creativa Marathon  
+- Created **Kidventure** — Educational app for kids.  
+- Won for creativity and engagement.
 
 </td>
 <td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" alt="Celebration Animation"/>
-
+  <img src="https://i.imgur.com/lhOpfNq.gif" width="180" alt="Celebration Animation"/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 📂 Featured Projects
+## ​ Featured Projects
 - **SMILe App** — AI-powered autism assistant *(1st Place — Benha Hackathon)*  
 - **Kidventure** — Educational kids app *(1st Place — Creativa Marathon)*  
 - **BookNest** — Reading app with MVVM & BLoC architecture  
@@ -67,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Highlights
+## ​ GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
@@ -75,9 +73,10 @@
 
 ---
 
-## 📫 Contact Me
+## ​ Contact Me
 <p align="center">
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
