@@ -11,31 +11,24 @@
 
 ## 🏆 Achievements
 <table>
-  <tr>
-    <!-- Text on the left -->
-    <td valign="middle" width="65%">
-      <ul style="margin:0; padding-left:18px;">
-        <li style="margin-bottom:12px;">
-          <strong>🥇 1st Place — Benha Hackathon</strong><br>
-          <small>SMILe App — AI-powered autism assistant</small>
-        </li>
-        <li style="margin-bottom:12px;">
-          <strong>🥇 1st Place — Creativa Marathon</strong><br>
-          <small>Kidventure — Educational kids app</small>
-        </li>
-        <li style="margin-bottom:12px;">
-          <strong>🥇 1st Place — University Competitions</strong><br>
-          <small>Multiple internal & campus-level hackathons</small>
-        </li>
-      </ul>
-    </td>
+<tr>
+<td width="70%" align="left">
 
-    <!-- Animation on the right -->
-    <td valign="middle" width="35%" align="center">
-      <!-- If you want full control, upload the GIF to your repo and replace this URL -->
-      <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" alt="Shiny Medal" width="140" style="max-width:100%; height:auto;" />
-    </td>
-  </tr>
+**🥇 1st Place — Benha Hackathon**  
+<sub>(SMILe App — AI-powered autism assistant)</sub>  
+
+**🥇 1st Place — Creativa Marathon**  
+<sub>(Kidventure — Educational kids app)</sub>  
+
+**🥇 1st Place — University Competitions**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="120" alt="Shiny Medal" />
+
+</td>
+</tr>
 </table>
 
 ---
