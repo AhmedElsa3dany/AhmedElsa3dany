@@ -22,9 +22,9 @@
 <tr>
 <td width="60%" valign="top">
 
-> <div style="background-color:#FFEB3B; padding:10px; border-radius:8px; margin-bottom:8px;"><strong>🥇 1st Place — Benha Hackathon</strong><br>Developed **SMILe App** — AI-powered autism assistant recognized for innovation and user-centric design.</div>
+> <div style="background-color:#FFEB3B; padding:10px; border-radius:8px; margin-bottom:8px;"><strong>🥇 1st Place — Benha Hackathon</strong><br>Developed **SMILe App** — Autism assistant with smart interaction & user-friendly design.</div>
 
-> <div style="background-color:#4CAF50; padding:10px; border-radius:8px;"><strong>🥇 1st Place — Creativa Marathon</strong><br>Built **Kidventure** — educational kids app celebrated for creativity and engagement.</div>
+> <div style="background-color:#4CAF50; padding:10px; border-radius:8px;"><strong>🥇 1st Place — Creativa Marathon</strong><br>Built **Kidventure** — Interactive educational app for children, focusing on engagement and creativity.</div>
 
 </td>
 <td width="40%" align="center">
