@@ -14,18 +14,7 @@
 
 ##  About Me
 
-**Professional Summary**  
-I'm a **Flutter Developer** building scalable cross-platform mobile applications with focus on performance, maintainability, and excellent user experience.  
-I follow **Clean Architecture**, use **BLoC / MVVM** for state management, and integrate **Firebase & REST APIs** for production-ready apps.
-
-**What I bring**  
-- ✅ Strong UI implementation with Flutter & Dart  
-- ✅ State management (BLoC/MVVM) - testable code & clean architecture  
-- ✅ Real product experience - hackathon winner & shipped apps  
-- ✅ Team workflow: feature branches, PRs, code reviews
-
-**Preferred roles**  
-- Mobile Developer (Flutter) • Product-focused feature work • Optimization & performance  
+Ahmed Elsaadany is a Computer Science and Engineering student at New Mansoura University and a dedicated Flutter developer specializing in high-performance cross-platform apps. Skilled in Flutter, Dart, Firebase, API integration, BLoC, MVVM, and SQFlite, he is passionate about incorporating AI for smarter solutions. Ahmed has led award-winning projects like Kidventure and SMILe, participated in global competitions, and actively pursues continuous growth through technology events and practical development experience.
 
 <!-- Status & Location -->
 <p align="center">
