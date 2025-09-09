@@ -55,12 +55,7 @@
   <img src="https://img.icons8.com/fluency/260/trophy.png" width="160" alt="Trophy" style="border-radius:8px; margin-bottom:20px; animation: bounce 2s infinite;" />
 </div>
 
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-</style>
+
 
 <div style="background: linear-gradient(135deg, #ffd700, #1e90ff); padding:16px; border-radius:12px; margin-bottom:16px; border-left:8px solid #FFEB3B; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
   <strong style="font-size:18px; color:#333;">🥇 1st Place — Benha Hackathon</strong><br>
