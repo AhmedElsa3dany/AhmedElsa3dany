@@ -4,7 +4,13 @@
 
 <!-- Gradient Header with Enhanced Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=50&animation=scaleIn&fontAlignY=40&desc=Building%20Innovative%20Cross-Platform%20Apps&descSize=20&descAlignY=60" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=36&animation=scaleIn&fontAlignY=40&desc=Building%20Innovative%20Cross-Platform%20Apps&descSize=20&descAlignY=60" alt="Header"/>
+</p>
+
+<!-- Profile views counter -->
+<p align="center">
+  <!-- عرض عدد زوار البروفايل -->
+  <img src="https://komarev.com/ghpvc/?username=AhmedElsa3dany&style=for-the-badge&color=ffd700" alt="Profile views" />
 </p>
 
 <!-- Animated Separator -->
@@ -14,8 +20,8 @@
 
 ## 🚀 About Me
 
-<div style="background: linear-gradient(135deg, #f6f9fc, #e9f0f7); padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
-  <p style="font-size: 16px; line-height: 1.6; color: #333;">
+<div style="background: linear-gradient(135deg, #ffd700, #1e90ff); padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px; text-align: center;">
+  <p style="font-size: 14px; line-height: 1.6; color: #111; margin: 0; display: inline-block; max-width: 900px;">
     Ahmed Elsaadany is a passionate Computer Science and Engineering student at New Mansoura University, specializing in Flutter development for high-performance cross-platform applications. With expertise in Flutter, Dart, Firebase, API integration, BLoC, MVVM, SQFlite, and AI-driven solutions, I thrive on creating impactful apps. I've led award-winning projects like Kidventure and SMILe, competed in global hackathons, and continuously grow through tech events and hands-on experience.
   </p>
 </div>
@@ -61,12 +67,12 @@
 }
 </style>
 
-<div style="background: linear-gradient(to right, #FFF8E1, #FFEFD5); padding:16px; border-radius:12px; margin-bottom:16px; border-left:8px solid #FFEB3B; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background: linear-gradient(135deg, #ffd700, #1e90ff); padding:16px; border-radius:12px; margin-bottom:16px; border-left:8px solid #FFEB3B; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
   <strong style="font-size:18px; color:#333;">🥇 1st Place — Benha Hackathon</strong><br>
   Developed <strong>SMILe App</strong> — An AI-assisted application for children with ASD, praised for its impactful and user-centered design.
 </div>
 
-<div style="background: linear-gradient(to right, #E8F5E9, #E0F7FA); padding:16px; border-radius:12px; margin-bottom:16px; border-left:8px solid #4CAF50; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background: linear-gradient(135deg, #ffd700, #1e90ff); padding:16px; border-radius:12px; margin-bottom:16px; border-left:8px solid #4CAF50; box-shadow: 0 2px 8px rgba(0,0,0,0.05); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
   <strong style="font-size:18px; color:#333;">🥇 1st Place — Creativa Marathon</strong><br>
   Created <strong>Kidventure</strong> — An engaging educational app for kids, awarded for creativity and user engagement.
 </div>
