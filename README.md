@@ -3,9 +3,8 @@
 =========================== -->
 
 <!-- Gradient Header with Enhanced Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=36&animation=scaleIn&fontAlignY=40&desc=Building%20Innovative%20Cross-Platform%20Apps&descSize=20&descAlignY=60" alt="Header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=36&animation=scaleIn&fontAlignY=40" alt="Header"/>
+
 
 
 
