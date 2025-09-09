@@ -3,7 +3,10 @@
 =========================== -->
 
 <!-- Gradient Header -->
-<div style="text-align: center;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,1E90FF&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=36&animation=scaleIn&fontAlignY=40" alt="Header" style="width: 100%; height: auto;" /> </div>
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=36&animation=scaleIn&fontAlignY=40" 
+       alt="Header"/>
+</div>
 
 
 
