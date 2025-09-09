@@ -7,11 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ahmed%20Elsaadany%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=36&animation=scaleIn&fontAlignY=40&desc=Building%20Innovative%20Cross-Platform%20Apps&descSize=20&descAlignY=60" alt="Header"/>
 </p>
 
-<!-- Profile views counter -->
-<p align="center">
-  <!-- عرض عدد زوار البروفايل -->
-  <img src="https://komarev.com/ghpvc/?username=AhmedElsa3dany&style=for-the-badge&color=ffd700" alt="Profile views" />
-</p>
+
 
 <!-- Animated Separator -->
 <p align="center">
