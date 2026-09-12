@@ -1,0 +1,106 @@
+<svg width="1280" height="460" viewBox="0 0 1280 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Elsaadany - Flutter Engineer</title>
+  <desc id="desc">Animated futuristic banner with a mobile interface orbit and the words Flutter Engineer, Product Builder, and AI x Education.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A16"/>
+      <stop offset="0.48" stop-color="#0D1531"/>
+      <stop offset="1" stop-color="#160C2C"/>
+    </linearGradient>
+    <linearGradient id="line" x1="96" y1="0" x2="1170" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64FFDA" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#64FFDA"/>
+      <stop offset="0.7" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#FFD166" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="titleGradient" x1="90" y1="100" x2="775" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#D8E7FF"/>
+      <stop offset="1" stop-color="#64FFDA"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientTransform="translate(1030 220) rotate(90) scale(245)">
+      <stop stop-color="#7C3AED" stop-opacity="0.32"/>
+      <stop offset="0.55" stop-color="#0891B2" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#070A16" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#90A4CE" stroke-opacity="0.065"/>
+    </pattern>
+    <clipPath id="frameClip"><rect x="1" y="1" width="1278" height="458" rx="30"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="1280" height="460" rx="30" fill="url(#bg)"/>
+    <rect width="1280" height="460" fill="url(#grid)"/>
+    <circle cx="1030" cy="220" r="245" fill="url(#aura)">
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-80 390C230 205 525 484 835 292C1025 175 1132 169 1370 280" stroke="url(#line)" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M-80 420C250 235 520 510 850 318C1048 203 1175 188 1370 308" stroke="url(#line)" stroke-opacity="0.09"/>
+
+    <g opacity="0.8">
+      <circle cx="92" cy="70" r="2" fill="#64FFDA"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="280" cy="54" r="1.5" fill="#FFD166"><animate attributeName="opacity" values="1;0.15;1" dur="4.2s" repeatCount="indefinite"/></circle>
+      <circle cx="470" cy="90" r="2" fill="#8B5CF6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="720" cy="50" r="1.5" fill="#64FFDA"><animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite"/></circle>
+      <circle cx="845" cy="362" r="2" fill="#FFD166"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1210" cy="84" r="2" fill="#64FFDA"><animate attributeName="opacity" values="1;0.1;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g transform="translate(88 89)">
+      <rect width="218" height="31" rx="15.5" fill="#64FFDA" fill-opacity="0.08" stroke="#64FFDA" stroke-opacity="0.44"/>
+      <circle cx="18" cy="15.5" r="4" fill="#64FFDA" filter="url(#glow)">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="32" y="21" fill="#9FFFE9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.1">BUILDING WITH PURPOSE</text>
+    </g>
+
+    <text x="87" y="191" fill="url(#titleGradient)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="1">AHMED</text>
+    <text x="87" y="258" fill="url(#titleGradient)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="1">ELSAADANY</text>
+    <rect x="89" y="283" width="630" height="2" rx="1" fill="url(#line)"/>
+    <text x="88" y="321" fill="#C9D1E7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3">FLUTTER ENGINEER  •  PRODUCT BUILDER</text>
+    <text x="88" y="357" fill="#8F9AB8" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="2.2">MOBILE ENGINEERING × AI × EDUCATION</text>
+    <text x="88" y="400" fill="#FFD166" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.4">EGYPT  /  CRAFTING EXPERIENCES PEOPLE REMEMBER</text>
+
+    <g transform="translate(1021 223)">
+      <circle r="165" stroke="#64FFDA" stroke-opacity="0.16"/>
+      <circle r="126" stroke="#8B5CF6" stroke-opacity="0.25" stroke-dasharray="7 11">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="92" stroke="#FFD166" stroke-opacity="0.19" stroke-dasharray="2 9">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+      </circle>
+
+      <g filter="url(#glow)">
+        <circle r="56" fill="#0B1024" stroke="#64FFDA" stroke-width="2"/>
+        <rect x="-22" y="-37" width="44" height="74" rx="9" fill="#111A37" stroke="#B6C6E5" stroke-width="2"/>
+        <rect x="-15" y="-27" width="30" height="48" rx="4" fill="#0E7490" fill-opacity="0.36"/>
+        <path d="M-8 6L-1-4L5 3L15-12" stroke="#64FFDA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cy="29" r="3" fill="#FFD166"/>
+      </g>
+
+      <g>
+        <circle cx="126" cy="0" r="6" fill="#64FFDA" filter="url(#glow)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="0" cy="-92" r="5" fill="#FFD166" filter="url(#glow)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="7s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="-165" cy="0" r="4" fill="#8B5CF6" filter="url(#glow)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="13s" repeatCount="indefinite"/>
+      </g>
+
+      <text x="-23" y="-141" fill="#8F9AB8" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2">IDEA</text>
+      <text x="108" y="54" fill="#8F9AB8" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2">SHIP</text>
+      <text x="-177" y="54" fill="#8F9AB8" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="2">IMPACT</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1278" height="458" rx="29" stroke="url(#line)" stroke-opacity="0.7" stroke-width="2"/>
+</svg>
+
