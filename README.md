@@ -39,10 +39,16 @@
   <img src="./assets/impact-vector.svg" width="100%" alt="Ahmed's achievements" />
 </p>
 
+<h2 align="center">Beyond the code</h2>
+
+<p align="center">
+  <img src="./assets/community-vector.svg" width="100%" alt="Ahmed's leadership and community roles" />
+</p>
+
 <h2 align="center">The rhythm of the work</h2>
 
 <p align="center">
-  <img width="100%" src="./assets/rhythm-vector.svg" alt="Build, learn, ship, repeat" />
+  <img width="100%" src="./assets/rhythm-vector.svg" alt="66 GitHub contributions in the last year" />
 </p>
 
 <p align="center">
