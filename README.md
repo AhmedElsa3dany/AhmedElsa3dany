@@ -1,124 +1,140 @@
-<!-- ===========================
-     Ahmed Elsaadany — README
-=========================== -->
-
-<!-- Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,100:0066ff&height=120&section=header&text=AHMED%20ELSAADANY%20%7C%20Flutter%20Developer&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35" alt="Header"/>
+  <img src="./assets/hero.svg" width="100%" alt="Ahmed Elsaadany - Flutter Engineer and product builder" />
 </p>
 
-<!-- Thick separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+  <a href="#featured-builds">Selected work</a> &nbsp;•&nbsp;
+  <a href="#engineering-toolkit">Toolkit</a> &nbsp;•&nbsp;
+  <a href="#proof-of-impact">Impact</a> &nbsp;•&nbsp;
+  <a href="#lets-build-something-meaningful">Contact</a>
 </p>
 
-##  About Me
-
-Ahmed Elsaadany is a Computer Science and Engineering student at New Mansoura University and a dedicated Flutter developer specializing in high-performance cross-platform apps. Skilled in Flutter, Dart, Firebase, API integration, BLoC, MVVM, and SQFlite, he is passionate about incorporating AI for smarter solutions. Ahmed has led award-winning projects like Kidventure and SMILe, participated in global competitions, and actively pursues continuous growth through technology events and practical development experience.
-
-<!-- Status & Location -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=briefcase" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Egypt-ffcc00?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/GPA-3.6%20%2F%204.0-0066ff?style=for-the-badge" alt="GPA" />
+  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Egypt-111827?style=flat-square&logo=googlemaps&logoColor=64FFDA" alt="Based in Egypt" />
+  <img src="https://img.shields.io/badge/Open%20to-Mobile%20%26%20AI%20opportunities-111827?style=flat-square&logo=sparkles&logoColor=FFD166" alt="Open to opportunities" />
 </p>
 
-<!-- Roles / Achievements -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Huawei%20Ambassador-0a74ff?style=for-the-badge" alt="Huawei Ambassador" />
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-FF6F00?style=for-the-badge" alt="Hackathon Winner" />
-</p>
+## The short version
 
-<!-- Availability & CV -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Freelance-Available-00b894?style=for-the-badge" alt="Freelance" />
-  <a href="./Ahmed_Elsaadany_CV.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-D14836?style=for-the-badge&logo=adobe&logoColor=white" alt="Download CV" />
-  </a>
-  <img src="https://img.shields.io/badge/Timezone-Africa%2FCairo-0066ff?style=for-the-badge" alt="Timezone" />
-</p>
+I am a **Flutter engineer and product-minded software developer** who turns ambitious ideas into polished mobile experiences. My work sits where **mobile engineering, thoughtful UX, AI, and education** meet.
 
-<!-- Thick separator -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
-</p>
+I graduated in Computer Science - Software Engineering from New Mansoura University with **Excellent with High Honors**, ranked **5th in my department**, and built award-winning products recognized at national competitions.
 
-##  Achievements
+> I care about the entire product journey: the problem, the architecture, the smallest interaction, and the moment a real person finally uses it.
+
+## Featured builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Sparkly Fun</h3>
+      <p><strong>AI-powered learning, designed around curiosity.</strong></p>
+      <p>An interactive educational ecosystem for children, combining an intelligent tutor, object detection, stories, mind maps, games, and personalized activities.</p>
+      <p><code>Flutter</code> <code>BLoC/Cubit</code> <code>Supabase</code> <code>Gemini API</code> <code>Clean Architecture</code></p>
+      <p>🥇 Industry 4.0 Marathon &nbsp;•&nbsp; 🎓 Top 10 graduation project</p>
+      <p><a href="https://github.com/AhmedElsa3dany/Sparkly_Fun_Landingpage"><strong>Explore the experience →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 NASA Exoplanet Explorer</h3>
+      <p><strong>Turning space data into an approachable mobile journey.</strong></p>
+      <p>A responsive Flutter experience that consumes remote APIs and presents exoplanet information through reusable, asynchronous UI flows.</p>
+      <p><code>Flutter</code> <code>REST APIs</code> <code>Async</code> <code>Data Visualization</code></p>
+      <p><br><a href="https://github.com/AhmedElsa3dany/nasa-space-app"><strong>View repository →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 BookNest</h3>
+      <p><strong>A calm, scalable reading experience.</strong></p>
+      <p>A book discovery application shaped around maintainable presentation logic, reusable components, and a clean mobile interface.</p>
+      <p><code>Flutter</code> <code>MVVM</code> <code>BLoC</code> <code>Repository Pattern</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/Book_Nest"><strong>View repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏳ Time Machine</h3>
+      <p><strong>History explored as a visual journey.</strong></p>
+      <p>An experimental Flutter experience for travelling through eras using immersive motion, video assets, and narrative UI.</p>
+      <p><code>Flutter</code> <code>Motion</code> <code>Video</code> <code>Visual Storytelling</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/Time-Machine"><strong>View repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>More products I have built</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Qalb Dakhir</strong> - an offline-first Arabic adhkar, prayer-time, qibla, and reflection experience. <em>Source kept private by design.</em></li>
+    <li><strong>Smile</strong> - assistive learning and communication for children with autism; 1st place at the Banha Hackathon.</li>
+    <li><strong>NutriMind</strong> - AI-assisted health and nutrition recommendations; Top 10 from approximately 200 IEEE competition teams.</li>
+    <li><strong>Nex News, EduManager, Moodly, Between Us</strong> - focused experiments in content, education, wellbeing, and social experiences.</li>
+  </ul>
+</details>
+
+## Engineering toolkit
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/260/trophy.png" width="160" alt="Trophy" style="border-radius:8px; margin-bottom:20px;"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,postman,androidstudio,vscode&theme=dark&perline=10" alt="Flutter, Dart, Firebase, Supabase, Git, GitHub, Figma, Postman, Android Studio and VS Code" />
 </div>
 
-<div style="background:#FFF8E1; padding:14px; border-radius:10px; margin-bottom:20px; border-left:6px solid #FFEB3B;">
-  <strong style="font-size:16px">🥇 1st Place — Benha Hackathon</strong><br>
-  Developed <strong>SMILe App</strong> — AI-assisted app for children with ASD. Recognized for impact and user-centered design.
-</div>
+<br>
 
-<div style="background:#E8F5E9; padding:14px; border-radius:10px; margin-bottom:12px; border-left:6px solid #4CAF50;">
-  <strong style="font-size:16px">🥇 1st Place — Creativa Marathon</strong><br>
-  Built <strong>Kidventure</strong> — educational app for kids, awarded for creativity and engagement.
-</div>
+| Mobile craft | Architecture | Data & intelligence | Product delivery |
+|---|---|---|---|
+| Flutter, Dart, responsive UI, animation, notifications | Clean Architecture, BLoC/Cubit, MVVM, SOLID, Repository Pattern | Supabase, Firebase, REST, JSON, SQLite, Gemini API, object detection | Requirements, prototyping, testing, documentation, Git workflows |
 
-<!-- Thick separator -->
+```dart
+final wayIWork = ProductMindset(
+  startWith: Problem.real,
+  architecture: Architecture.clean,
+  experience: Experience.intentional,
+  finishWhen: Product.useful,
+);
+```
+
+## Proof of impact
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+  <img src="./assets/impact.svg" width="100%" alt="Ahmed Elsaadany achievements timeline" />
 </p>
 
-##  Tech Stack
+| Signal | Outcome |
+|---|---|
+| 🥇 Industry 4.0 Marathon | 1st place for Sparkly Fun's innovation and educational impact |
+| 🥇 Banha Hackathon | 1st place for Smile, an assistive app for children with autism |
+| 🥉 Huawei ICT Academy | 3rd nationwide among 46 university teams; qualified for North Africa |
+| 🎓 Academic excellence | 5th in the CS department, GPA 3.54/4.00, Excellent with High Honors |
+| 🚀 Community leadership | Helped 300+ students access Huawei certification opportunities |
+
+## Beyond the code
+
+I have worked as a **Huawei Cloud Student Ambassador**, **Head of Operations at Microsoft Student Club NMU**, **Vice President at Rally NMU**, and a trainer in youth-development communities. Those roles taught me that strong software is also about clear communication, ownership, and helping a team move together.
+
+I am especially interested in **AI in education, educational technology, human-computer interaction, assistive technology, and teaching programming to young learners**.
+
+## GitHub signal
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-FF5733?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedElsa3dany&theme=github_dark" alt="Ahmed's GitHub contribution overview" />
 </p>
 
-<!-- Thick separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=FFD166&text_color=C9D1D9&rank_icon=github" alt="Ahmed's GitHub statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedElsa3dany&hide_border=true&background=0D1117&ring=7C3AED&fire=FFD166&currStreakLabel=64FFDA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Ahmed's GitHub streak" />
 </p>
 
-##  Featured Projects
-- *SMILe App* — AI-powered autism assistant (1st Place — Benha Hackathon)  
-- *Kidventure* — Educational kids app (1st Place — Creativa Marathon)  
-- *BookNest* — Reading app with MVVM & BLoC architecture  
-- *TicTacToe, Calculator, Stopwatch, QR Scanner* — Flutter utility apps  
+## Let's build something meaningful
 
-<!-- Thick separator -->
+If you are working on a mobile product, an AI-enhanced learning experience, or technology with genuine human impact, I would love to hear about it.
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-Email%20me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
-##  GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElsa3dany&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="./assets/footer.svg" width="100%" alt="Every meaningful product starts as an idea someone cares enough to build" />
 </p>
 
-<!-- Thick separator -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcc00,100:0066ff&height=12" alt="separator" />
-</p>
-
-
-##  GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElsa3dany&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
-
-##  Contact Me
-<p align="center">
-  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AhmedElsa3dany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
