@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="./assets/footer-vector.svg" width="100%" alt="Let's turn the next idea into something real" /></a>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="./assets/footer-vector.svg" width="100%" alt="Let's build something useful" /></a>
 </p>
