@@ -1,0 +1,11 @@
+<svg width="580" height="220" viewBox="0 0 580 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Nex News</title><defs><linearGradient id="bg" x1="0" y1="0" x2="580" y2="220"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#172234"/></linearGradient></defs>
+  <rect x="1" y="1" width="578" height="218" rx="25" fill="url(#bg)" stroke="#FF6B5A" stroke-opacity=".68" stroke-width="2"/>
+  <circle cx="104" cy="108" r="72" fill="#FF6B5A" fill-opacity=".07"/>
+  <rect x="53" y="59" width="102" height="100" rx="14" fill="#15233A" stroke="#FF6B5A" stroke-width="3"/>
+  <rect x="68" y="76" width="35" height="34" rx="8" fill="#FF6B5A"/><rect x="112" y="76" width="42" height="8" rx="4" fill="#F8F4EA"/><rect x="112" y="93" width="30" height="7" rx="3.5" fill="#8E9AB3"/><path d="M68 126H154M68 140H139" stroke="#4FD1C5" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="162" cy="58" r="7" fill="#F4C95D"><animate attributeName="cy" values="58;50;58" dur="3.4s" repeatCount="indefinite"/></circle>
+  <text x="211" y="67" fill="#F8F4EA" font-family="Segoe UI, Arial" font-size="28" font-weight="800">Nex_News</text><text x="211" y="98" fill="#9EABC4" font-family="Segoe UI, Arial" font-size="14" letter-spacing="1.2">FOCUSED · FAST · CURRENT</text>
+  <rect x="211" y="124" width="72" height="28" rx="14" fill="#4FD1C5" fill-opacity=".12"/><text x="247" y="143" text-anchor="middle" fill="#8CE8DF" font-family="Segoe UI, Arial" font-size="11" font-weight="700">FLUTTER</text><rect x="291" y="124" width="58" height="28" rx="14" fill="#7C6CF2" fill-opacity=".14"/><text x="320" y="143" text-anchor="middle" fill="#AFA7FF" font-family="Segoe UI, Arial" font-size="11" font-weight="700">DIO</text><rect x="357" y="124" width="80" height="28" rx="14" fill="#FF6B5A" fill-opacity=".14"/><text x="397" y="143" text-anchor="middle" fill="#FF9B8F" font-family="Segoe UI, Arial" font-size="11" font-weight="700">WEBVIEW</text>
+  <text x="211" y="188" fill="#FF6B5A" font-family="Segoe UI, Arial" font-size="13" font-weight="700" letter-spacing="1">OPEN PROJECT  ↗</text>
+</svg>
