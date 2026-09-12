@@ -7,18 +7,12 @@
   <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="./assets/button-email.svg" width="190" alt="Email Ahmed" /></a>
 </p>
 
-<p align="center"><b>Flutter Engineer</b> · Product Builder · AI × Education</p>
-
 <p align="center">
-  I turn ideas into mobile products people enjoy using.
-</p>
-
-<p align="center">
-  <img src="./assets/stats-vector.svg" width="100%" alt="Ahmed's impact at a glance" />
+  <img src="./assets/stats-vector.svg" width="100%" alt="About Ahmed Elsaadany" />
 </p>
 
 <h2 align="center">Selected work</h2>
-<p align="center"><sub>THE SIX PROJECTS PINNED ON MY PROFILE</sub></p>
+<p align="center"><sub>PINNED · SIX PROJECTS · SIX IDENTITIES</sub></p>
 
 <p align="center">
   <a href="https://github.com/AhmedElsa3dany/Book_Nest"><img src="./assets/project-booknest.svg" width="49%" alt="Book Nest" /></a>
@@ -48,7 +42,7 @@
 <h2 align="center">The rhythm of the work</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElsa3dany&bg_color=0B1220&color=F8F4EA&line=4FD1C5&point=FF6B5A&area=true&area_color=4FD1C5&hide_border=true&custom_title=" alt="Ahmed's GitHub contribution graph" />
+  <img width="100%" src="./assets/rhythm-vector.svg" alt="Build, learn, ship, repeat" />
 </p>
 
 <p align="center">
