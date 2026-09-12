@@ -1,0 +1,10 @@
+<svg width="580" height="220" viewBox="0 0 580 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleColor">
+  <title id="titleColor">Movie App</title><defs><linearGradient id="bg" x1="0" y1="0" x2="580" y2="220"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#1B1B36"/></linearGradient></defs>
+  <rect x="1" y="1" width="578" height="218" rx="25" fill="url(#bg)" stroke="#F4C95D" stroke-opacity=".68" stroke-width="2"/>
+  <circle cx="104" cy="108" r="72" fill="#F4C95D" fill-opacity=".07"/>
+  <rect x="54" y="69" width="100" height="82" rx="14" fill="#15233A" stroke="#F4C95D" stroke-width="3"/><path d="M54 91H154M70 69L86 91M102 69L118 91M134 69L150 91" stroke="#F8F4EA" stroke-opacity=".72" stroke-width="3"/><circle cx="104" cy="120" r="21" fill="#7C6CF2"/><path d="M99 109L115 120L99 131V109Z" fill="#F8F4EA"/>
+  <circle cx="158" cy="58" r="6" fill="#FF6B5A"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="211" y="67" fill="#F8F4EA" font-family="Segoe UI, Arial" font-size="28" font-weight="800">movieapp</text><text x="211" y="98" fill="#9EABC4" font-family="Segoe UI, Arial" font-size="14" letter-spacing="1.2">CINEMA · CLEANLY BUILT</text>
+  <rect x="211" y="124" width="72" height="28" rx="14" fill="#4FD1C5" fill-opacity=".12"/><text x="247" y="143" text-anchor="middle" fill="#8CE8DF" font-family="Segoe UI, Arial" font-size="11" font-weight="700">FLUTTER</text><rect x="291" y="124" width="59" height="28" rx="14" fill="#7C6CF2" fill-opacity=".14"/><text x="320.5" y="143" text-anchor="middle" fill="#AFA7FF" font-family="Segoe UI, Arial" font-size="11" font-weight="700">BLOC</text><rect x="358" y="124" width="70" height="28" rx="14" fill="#FF6B5A" fill-opacity=".12"/><text x="393" y="143" text-anchor="middle" fill="#FF9B8F" font-family="Segoe UI, Arial" font-size="11" font-weight="700">CLEAN</text>
+  <text x="211" y="188" fill="#F4C95D" font-family="Segoe UI, Arial" font-size="13" font-weight="700" letter-spacing="1">OPEN PROJECT  ↗</text>
+</svg>
