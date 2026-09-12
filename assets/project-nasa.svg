@@ -1,0 +1,12 @@
+<svg width="580" height="220" viewBox="0 0 580 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">NASA Space App</title><defs><linearGradient id="bg" x1="0" y1="0" x2="580" y2="220"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#161838"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="578" height="218" rx="25" fill="url(#bg)" stroke="#7C6CF2" stroke-opacity=".66" stroke-width="2"/>
+  <circle cx="104" cy="108" r="72" fill="#7C6CF2" fill-opacity=".07"/>
+  <circle cx="104" cy="108" r="38" fill="#7C6CF2" fill-opacity=".45" stroke="#AFA7FF" stroke-width="2"/><path d="M74 92C90 99 108 98 133 87M72 118C91 111 115 113 138 126M94 72C91 91 91 122 105 143M117 74C126 94 124 119 114 141" stroke="#D7D3FF" stroke-opacity=".55"/>
+  <ellipse cx="104" cy="108" rx="78" ry="24" stroke="#4FD1C5" stroke-width="3" transform="rotate(-13 104 108)"/>
+  <circle cx="175" cy="92" r="6" fill="#F4C95D" filter="url(#g)"><animate attributeName="opacity" values=".35;1;.35" dur="2.3s" repeatCount="indefinite"/></circle>
+  <text x="211" y="67" fill="#F8F4EA" font-family="Segoe UI, Arial" font-size="28" font-weight="800">nasa-space-app</text><text x="211" y="98" fill="#9EABC4" font-family="Segoe UI, Arial" font-size="14" letter-spacing="1.2">DATA BEYOND EARTH</text>
+  <rect x="211" y="124" width="72" height="28" rx="14" fill="#4FD1C5" fill-opacity=".12"/><text x="247" y="143" text-anchor="middle" fill="#8CE8DF" font-family="Segoe UI, Arial" font-size="11" font-weight="700">FLUTTER</text><rect x="291" y="124" width="58" height="28" rx="14" fill="#7C6CF2" fill-opacity=".16"/><text x="320" y="143" text-anchor="middle" fill="#AFA7FF" font-family="Segoe UI, Arial" font-size="11" font-weight="700">API</text><rect x="357" y="124" width="67" height="28" rx="14" fill="#FF6B5A" fill-opacity=".12"/><text x="390.5" y="143" text-anchor="middle" fill="#FF9B8F" font-family="Segoe UI, Arial" font-size="11" font-weight="700">ASYNC</text>
+  <text x="211" y="188" fill="#7C6CF2" font-family="Segoe UI, Arial" font-size="13" font-weight="700" letter-spacing="1">OPEN PROJECT  ↗</text>
+</svg>
+
