@@ -1,0 +1,87 @@
+<svg width="1280" height="470" viewBox="0 0 1280 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Elsaadany - Flutter Engineer</title>
+  <desc id="desc">Animated bohemian technology banner in earthy tones with woven patterns, botanical shapes, a sun arch, and a mobile interface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#1B1411"/><stop offset=".48" stop-color="#2B1D17"/><stop offset="1" stop-color="#17231F"/></linearGradient>
+    <linearGradient id="sand" x1="70" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#F3E8D0"/><stop offset=".58" stop-color="#E8C47C"/><stop offset="1" stop-color="#AFC5AB"/></linearGradient>
+    <linearGradient id="thread" x1="40" y1="0" x2="1240" y2="0"><stop stop-color="#C96F52"/><stop offset=".38" stop-color="#E8C47C"/><stop offset=".72" stop-color="#6F9480"/><stop offset="1" stop-color="#C96F52"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#E8C47C" stop-opacity=".25"/><stop offset="1" stop-color="#E8C47C" stop-opacity="0"/></radialGradient>
+    <pattern id="weave" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M0 15H30M15 0V30" stroke="#E8C47C" stroke-opacity=".035"/><circle cx="15" cy="15" r="1" fill="#F3E8D0" fill-opacity=".07"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="468" rx="34"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="470" rx="34" fill="url(#bg)"/>
+    <rect width="1280" height="470" fill="url(#weave)"/>
+    <circle cx="1030" cy="225" r="255" fill="url(#aura)"><animate attributeName="opacity" values=".55;1;.55" dur="6s" repeatCount="indefinite"/></circle>
+
+    <g opacity=".75" stroke="url(#thread)" stroke-width="2">
+      <path d="M42 31H390L421 61H859L890 31H1238"/>
+      <path d="M42 439H355L385 409H895L925 439H1238"/>
+    </g>
+    <g fill="#E8C47C">
+      <circle cx="421" cy="61" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="859" cy="61" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g transform="translate(88 88)">
+      <path d="M0 20C12 0 30 0 42 20C30 40 12 40 0 20Z" fill="none" stroke="#E8C47C" stroke-width="2"/>
+      <circle cx="21" cy="20" r="5" fill="#C96F52" filter="url(#glow)"><animate attributeName="r" values="4;6;4" dur="2.6s" repeatCount="indefinite"/></circle>
+      <text x="58" y="26" fill="#D7C9AE" font-family="Segoe UI, Arial" font-size="13" font-weight="700" letter-spacing="3">ROOTED IN CRAFT · BUILT FOR IMPACT</text>
+    </g>
+
+    <text x="87" y="195" fill="url(#sand)" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" letter-spacing="2">AHMED</text>
+    <text x="87" y="265" fill="url(#sand)" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" letter-spacing="2">ELSAADANY</text>
+    <path d="M89 289H695" stroke="url(#thread)" stroke-width="3"/>
+    <text x="88" y="330" fill="#F3E8D0" font-family="Segoe UI, Arial" font-size="20" font-weight="600" letter-spacing="3">FLUTTER ENGINEER  ·  PRODUCT BUILDER</text>
+    <text x="88" y="368" fill="#BDAE95" font-family="Segoe UI, Arial" font-size="15" letter-spacing="2.6">MOBILE CRAFT  ·  AI  ·  EDUCATION  ·  HUMAN IMPACT</text>
+    <g transform="translate(88 394)">
+      <rect width="125" height="29" rx="14.5" fill="#C96F52" fill-opacity=".16" stroke="#C96F52"/>
+      <text x="62.5" y="19" text-anchor="middle" fill="#E9B9A7" font-family="Segoe UI, Arial" font-size="11" font-weight="700" letter-spacing="1.5">FLUTTER · DART</text>
+      <rect x="136" width="190" height="29" rx="14.5" fill="#E8C47C" fill-opacity=".12" stroke="#E8C47C"/>
+      <text x="231" y="19" text-anchor="middle" fill="#E8C47C" font-family="Segoe UI, Arial" font-size="10" font-weight="700" letter-spacing="1.1">CLEAN ARCHITECTURE</text>
+      <rect x="338" width="180" height="29" rx="14.5" fill="#6F9480" fill-opacity=".16" stroke="#6F9480"/>
+      <text x="428" y="19" text-anchor="middle" fill="#AFC5AB" font-family="Segoe UI, Arial" font-size="10" font-weight="700" letter-spacing="1.1">DESIGN · SHIP · LEARN</text>
+    </g>
+
+    <g transform="translate(1028 238)">
+      <g opacity=".65">
+        <path d="M0-177V-211M0 177V211M-177 0H-211M177 0H211M-125-125L-149-149M125 125L149 149M125-125L149-149M-125 125L-149 149" stroke="#E8C47C" stroke-width="2" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <circle r="167" stroke="#C96F52" stroke-opacity=".48" stroke-width="2" stroke-dasharray="3 10"/>
+      <path d="M-122 105V-8C-122-76-67-131 1-131C69-131 124-76 124-8V105" fill="#E8C47C" fill-opacity=".055" stroke="#E8C47C" stroke-opacity=".55" stroke-width="2"/>
+      <path d="M-99 104V-5C-99-60-54-105 1-105C56-105 101-60 101-5V104" stroke="#6F9480" stroke-opacity=".65" stroke-width="2"/>
+      <circle cy="-6" r="77" fill="#E8C47C" fill-opacity=".08"/>
+      <circle cy="-6" r="54" fill="#C96F52" fill-opacity=".18" stroke="#E8C47C"/>
+      <g filter="url(#glow)">
+        <rect x="-23" y="-45" width="46" height="78" rx="10" fill="#1A1E1A" stroke="#F3E8D0" stroke-width="2"/>
+        <rect x="-16" y="-35" width="32" height="49" rx="5" fill="#6F9480" fill-opacity=".38"/>
+        <path d="M-9 2L-2-10L5-2L14-18" stroke="#E8C47C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cy="24" r="3" fill="#C96F52"/>
+      </g>
+
+      <g transform="translate(-145 35)">
+        <path d="M0 84C-15 49-12 14 2-18" stroke="#6F9480" stroke-width="3" stroke-linecap="round"/>
+        <path d="M-2 30C-27 24-34 8-32-8C-12-4 0 10-2 30Z" fill="#6F9480"/>
+        <path d="M0 52C22 43 30 27 26 12C8 19-2 34 0 52Z" fill="#AFC5AB" fill-opacity=".75"/>
+        <animateTransform attributeName="transform" additive="sum" type="rotate" values="-2;-6;-2" dur="5s" repeatCount="indefinite"/>
+      </g>
+      <g transform="translate(145 38)">
+        <path d="M0 81C15 46 12 11-2-21" stroke="#C96F52" stroke-width="3" stroke-linecap="round"/>
+        <path d="M2 27C27 21 34 5 32-11C12-7 0 7 2 27Z" fill="#C96F52"/>
+        <path d="M0 49C-22 40-30 24-26 9C-8 16 2 31 0 49Z" fill="#E8C47C" fill-opacity=".72"/>
+        <animateTransform attributeName="transform" additive="sum" type="rotate" values="2;6;2" dur="5.5s" repeatCount="indefinite"/>
+      </g>
+      <text x="0" y="136" text-anchor="middle" fill="#BDAE95" font-family="Segoe UI, Arial" font-size="11" letter-spacing="3">IDEA  ·  SYSTEM  ·  EXPERIENCE</text>
+    </g>
+
+    <g fill="#F3E8D0">
+      <circle cx="775" cy="105" r="2"><animate attributeName="cy" values="105;95;105" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="834" cy="367" r="1.7"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="1199" cy="91" r="2"><animate attributeName="cy" values="91;82;91" dur="4.8s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1278" height="468" rx="33" stroke="url(#thread)" stroke-opacity=".72" stroke-width="2"/>
+</svg>
