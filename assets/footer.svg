@@ -1,0 +1,11 @@
+<svg width="1200" height="100" viewBox="0 0 1200 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Every meaningful product starts as an idea someone cares enough to build.</title>
+  <defs>
+    <linearGradient id="line" x1="100" y1="50" x2="1100" y2="50" gradientUnits="userSpaceOnUse"><stop stop-color="#64FFDA" stop-opacity="0"/><stop offset="0.28" stop-color="#64FFDA"/><stop offset="0.66" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FFD166" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M80 20H470L500 50H700L730 20H1120" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="500" cy="50" r="4" fill="#64FFDA" filter="url(#glow)"><animate attributeName="opacity" values="0.25;1;0.25" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="700" cy="50" r="4" fill="#FFD166" filter="url(#glow)"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="600" y="83" text-anchor="middle" fill="#7D89A4" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2.3">EVERY MEANINGFUL PRODUCT STARTS AS AN IDEA SOMEONE CARES ENOUGH TO BUILD</text>
+</svg>
