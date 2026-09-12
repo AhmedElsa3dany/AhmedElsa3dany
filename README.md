@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ahmed Elsaadany - Flutter Engineer and product builder" />
+  <img src="./assets/hero-boho.svg" width="100%" alt="Ahmed Elsaadany - Flutter Engineer and product builder" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Egypt-111827?style=flat-square&logo=googlemaps&logoColor=64FFDA" alt="Based in Egypt" />
-  <img src="https://img.shields.io/badge/Open%20to-Mobile%20%26%20AI%20opportunities-111827?style=flat-square&logo=sparkles&logoColor=FFD166" alt="Open to opportunities" />
+  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="./assets/badge-linkedin.svg" width="210" alt="Connect with Ahmed on LinkedIn" /></a>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="./assets/badge-email.svg" width="210" alt="Email Ahmed" /></a>
+  <img src="./assets/badge-egypt.svg" width="210" alt="Based in Egypt" />
+  <img src="./assets/badge-open.svg" width="210" alt="Open to mobile and AI opportunities" />
 </p>
 
 ## The short version
@@ -26,38 +26,57 @@ I graduated in Computer Science - Software Engineering from New Mansoura Univers
 
 ## Featured builds
 
+<p align="center">
+  <img src="./assets/featured.svg" width="100%" alt="Pinned, crafted and shipped - Ahmed's featured builds" />
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ Sparkly Fun</h3>
-      <p><strong>AI-powered learning, designed around curiosity.</strong></p>
-      <p>An interactive educational ecosystem for children, combining an intelligent tutor, object detection, stories, mind maps, games, and personalized activities.</p>
-      <p><code>Flutter</code> <code>BLoC/Cubit</code> <code>Supabase</code> <code>Gemini API</code> <code>Clean Architecture</code></p>
-      <p>🥇 Industry 4.0 Marathon &nbsp;•&nbsp; 🎓 Top 10 graduation project</p>
-      <p><a href="https://github.com/AhmedElsa3dany/Sparkly_Fun_Landingpage"><strong>Explore the experience →</strong></a></p>
+      <h3>📚 Book_Nest</h3>
+      <p><strong>A calm home for curious readers.</strong></p>
+      <p>A book discovery experience built with clean boundaries, reusable UI, fast API flows, and thoughtful loading states.</p>
+      <p><code>Flutter</code> <code>BLoC</code> <code>Dio</code> <code>GetIt</code> <code>GoRouter</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/Book_Nest"><strong>Walk into the project →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌌 NASA Exoplanet Explorer</h3>
-      <p><strong>Turning space data into an approachable mobile journey.</strong></p>
-      <p>A responsive Flutter experience that consumes remote APIs and presents exoplanet information through reusable, asynchronous UI flows.</p>
-      <p><code>Flutter</code> <code>REST APIs</code> <code>Async</code> <code>Data Visualization</code></p>
-      <p><br><a href="https://github.com/AhmedElsa3dany/nasa-space-app"><strong>View repository →</strong></a></p>
+      <h3>🪄 Kidventure-App</h3>
+      <p><strong>Learning that feels like exploration.</strong></p>
+      <p>An educational Flutter world for children aged 6-12, blending 3D objects, Gemini-powered conversation, voice interaction, charts, and playful motion.</p>
+      <p><code>Flutter</code> <code>Gemini AI</code> <code>3D</code> <code>Speech</code> <code>TTS</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/Kidventure-App"><strong>Begin the adventure →</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 BookNest</h3>
-      <p><strong>A calm, scalable reading experience.</strong></p>
-      <p>A book discovery application shaped around maintainable presentation logic, reusable components, and a clean mobile interface.</p>
-      <p><code>Flutter</code> <code>MVVM</code> <code>BLoC</code> <code>Repository Pattern</code></p>
-      <p><a href="https://github.com/AhmedElsa3dany/Book_Nest"><strong>View repository →</strong></a></p>
+      <h3>📊 responsive_dashboard</h3>
+      <p><strong>One dashboard, every canvas.</strong></p>
+      <p>An adaptive dashboard study that reshapes navigation, charts, and information density across mobile, tablet, and desktop layouts.</p>
+      <p><code>Flutter</code> <code>Responsive UI</code> <code>FL Chart</code> <code>SVG</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/responsive_dashboard"><strong>Explore the layout system →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⏳ Time Machine</h3>
-      <p><strong>History explored as a visual journey.</strong></p>
-      <p>An experimental Flutter experience for travelling through eras using immersive motion, video assets, and narrative UI.</p>
-      <p><code>Flutter</code> <code>Motion</code> <code>Video</code> <code>Visual Storytelling</code></p>
-      <p><a href="https://github.com/AhmedElsa3dany/Time-Machine"><strong>View repository →</strong></a></p>
+      <h3>🌌 nasa-space-app</h3>
+      <p><strong>Space data, made human.</strong></p>
+      <p>A responsive mobile journey through exoplanets, translating remote scientific data into reusable, asynchronous visual experiences.</p>
+      <p><code>Flutter</code> <code>REST APIs</code> <code>Async</code> <code>Data Visualization</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/nasa-space-app"><strong>Launch the explorer →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 Nex_News</h3>
+      <p><strong>Headlines without the noise.</strong></p>
+      <p>A focused news-reading experience with remote content, in-app article browsing, expressive typography, and lightweight motion.</p>
+      <p><code>Flutter</code> <code>Dio</code> <code>WebView</code> <code>Motion</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/Nex_News"><strong>Read the build →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 movieapp</h3>
+      <p><strong>Cinema discovery with clean foundations.</strong></p>
+      <p>A movie-browsing application structured around clean architecture, predictable state, dependency injection, API integration, and image caching.</p>
+      <p><code>Flutter</code> <code>Clean Architecture</code> <code>BLoC</code> <code>GetIt</code> <code>Dio</code></p>
+      <p><a href="https://github.com/AhmedElsa3dany/movieapp"><strong>Browse the experience →</strong></a></p>
     </td>
   </tr>
 </table>
@@ -69,7 +88,7 @@ I graduated in Computer Science - Software Engineering from New Mansoura Univers
     <li><strong>Qalb Dakhir</strong> - an offline-first Arabic adhkar, prayer-time, qibla, and reflection experience. <em>Source kept private by design.</em></li>
     <li><strong>Smile</strong> - assistive learning and communication for children with autism; 1st place at the Banha Hackathon.</li>
     <li><strong>NutriMind</strong> - AI-assisted health and nutrition recommendations; Top 10 from approximately 200 IEEE competition teams.</li>
-    <li><strong>Nex News, EduManager, Moodly, Between Us</strong> - focused experiments in content, education, wellbeing, and social experiences.</li>
+    <li><strong>EduManager, Moodly, Between Us, and Time Machine</strong> - focused experiments in education, wellbeing, social experiences, and visual storytelling.</li>
   </ul>
 </details>
 
@@ -97,7 +116,7 @@ final wayIWork = ProductMindset(
 ## Proof of impact
 
 <p align="center">
-  <img src="./assets/impact.svg" width="100%" alt="Ahmed Elsaadany achievements timeline" />
+  <img src="./assets/impact-boho.svg" width="100%" alt="Ahmed Elsaadany achievements timeline" />
 </p>
 
 | Signal | Outcome |
@@ -117,12 +136,12 @@ I am especially interested in **AI in education, educational technology, human-c
 ## GitHub signal
 
 <p align="center">
-  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedElsa3dany&theme=github_dark" alt="Ahmed's GitHub contribution overview" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElsa3dany&bg_color=211713&color=E8C47C&line=6F9480&point=C96F52&area=true&area_color=6F9480&hide_border=true&custom_title=The%20rhythm%20of%20the%20work" alt="Ahmed's GitHub contribution graph" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=FFD166&text_color=C9D1D9&rank_icon=github" alt="Ahmed's GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedElsa3dany&hide_border=true&background=0D1117&ring=7C3AED&fire=FFD166&currStreakLabel=64FFDA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Ahmed's GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedElsa3dany&show_icons=true&hide_border=true&bg_color=211713&title_color=E8C47C&icon_color=C96F52&text_color=F3E8D0&rank_icon=github" alt="Ahmed's GitHub statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedElsa3dany&hide_border=true&background=211713&ring=6F9480&fire=C96F52&currStreakLabel=E8C47C&sideLabels=F3E8D0&dates=BDAE95&currStreakNum=F3E8D0&sideNums=F3E8D0" alt="Ahmed's GitHub streak" />
 </p>
 
 ## Let's build something meaningful
@@ -130,11 +149,10 @@ I am especially interested in **AI in education, educational technology, human-c
 If you are working on a mobile product, an AI-enhanced learning experience, or technology with genuine human impact, I would love to hear about it.
 
 <p align="center">
-  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-Email%20me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ahmedelsaadany16112003@gmail.com"><img src="./assets/badge-email.svg" width="240" alt="Email Ahmed" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-elsa3dany/"><img src="./assets/badge-linkedin.svg" width="240" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Every meaningful product starts as an idea someone cares enough to build" />
+  <img src="./assets/footer-boho.svg" width="100%" alt="Every meaningful product starts as an idea someone cares enough to build" />
 </p>
-
