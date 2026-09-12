@@ -1,0 +1,9 @@
+<svg width="280" height="72" viewBox="0 0 280 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open to mobile and AI opportunities">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="280" y2="72"><stop stop-color="#1F302A"/><stop offset="1" stop-color="#34221B"/></linearGradient><filter id="s" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="278" height="70" rx="24" fill="url(#g)" stroke="#6F9480" stroke-width="2"/>
+  <circle cx="40" cy="36" r="10" fill="#6F9480" fill-opacity=".25" stroke="#8EB7A0"/>
+  <circle cx="40" cy="36" r="4" fill="#9ED8B5" filter="url(#s)"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="72" y="31" fill="#F3E8D0" font-family="Georgia, serif" font-size="17" font-weight="700">Open to</text>
+  <text x="72" y="51" fill="#BDAE95" font-family="Segoe UI, Arial" font-size="11" letter-spacing="1.2">MOBILE · AI · IMPACT</text>
+  <path d="M247 22V50M233 36H261" stroke="#C96F52" stroke-width="2" stroke-linecap="round"/>
+</svg>
