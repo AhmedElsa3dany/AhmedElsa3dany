@@ -1,0 +1,54 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Proof of impact</title>
+  <desc id="desc">Animated constellation showing five major achievements.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#090D1A"/><stop offset="0.5" stop-color="#10162A"/><stop offset="1" stop-color="#130B26"/></linearGradient>
+    <linearGradient id="path" x1="110" y1="150" x2="1090" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#64FFDA"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FFD166"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9FB1D8" fill-opacity="0.07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#dots)"/>
+  <text x="600" y="42" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4">MILESTONES, NOT JUST METRICS</text>
+  <path d="M115 154C232 89 327 208 454 145C575 85 672 210 791 146C895 91 985 192 1084 133" stroke="url(#path)" stroke-width="3" stroke-opacity="0.52" stroke-dasharray="8 10">
+    <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="4.8s" repeatCount="indefinite"/>
+  </path>
+
+  <g transform="translate(116 154)">
+    <circle r="28" fill="#0D1727" stroke="#64FFDA" stroke-width="2"/>
+    <circle r="7" fill="#64FFDA" filter="url(#glow)"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text y="-46" text-anchor="middle" fill="#64FFDA" font-family="Segoe UI, Arial" font-size="22" font-weight="800">#1</text>
+    <text y="55" text-anchor="middle" fill="#E6EDF7" font-family="Segoe UI, Arial" font-size="14" font-weight="700">Industry 4.0</text>
+    <text y="75" text-anchor="middle" fill="#8996B3" font-family="Segoe UI, Arial" font-size="12">Marathon</text>
+  </g>
+  <g transform="translate(351 180)">
+    <circle r="28" fill="#111329" stroke="#6EE7F2" stroke-width="2"/>
+    <circle r="7" fill="#6EE7F2" filter="url(#glow)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.1s" repeatCount="indefinite"/></circle>
+    <text y="-46" text-anchor="middle" fill="#6EE7F2" font-family="Segoe UI, Arial" font-size="22" font-weight="800">#1</text>
+    <text y="55" text-anchor="middle" fill="#E6EDF7" font-family="Segoe UI, Arial" font-size="14" font-weight="700">Banha</text>
+    <text y="75" text-anchor="middle" fill="#8996B3" font-family="Segoe UI, Arial" font-size="12">Hackathon</text>
+  </g>
+  <g transform="translate(584 118)">
+    <circle r="30" fill="#15112D" stroke="#8B5CF6" stroke-width="2"/>
+    <circle r="8" fill="#8B5CF6" filter="url(#glow)"><animate attributeName="r" values="6;9;6" dur="2.7s" repeatCount="indefinite"/></circle>
+    <text y="-48" text-anchor="middle" fill="#A78BFA" font-family="Segoe UI, Arial" font-size="22" font-weight="800">#3</text>
+    <text y="58" text-anchor="middle" fill="#E6EDF7" font-family="Segoe UI, Arial" font-size="14" font-weight="700">Huawei ICT</text>
+    <text y="78" text-anchor="middle" fill="#8996B3" font-family="Segoe UI, Arial" font-size="12">Nationwide</text>
+  </g>
+  <g transform="translate(817 162)">
+    <circle r="28" fill="#171126" stroke="#C084FC" stroke-width="2"/>
+    <circle r="7" fill="#C084FC" filter="url(#glow)"><animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <text y="-46" text-anchor="middle" fill="#C084FC" font-family="Segoe UI, Arial" font-size="22" font-weight="800">TOP 5</text>
+    <text y="55" text-anchor="middle" fill="#E6EDF7" font-family="Segoe UI, Arial" font-size="14" font-weight="700">CS Department</text>
+    <text y="75" text-anchor="middle" fill="#8996B3" font-family="Segoe UI, Arial" font-size="12">High Honors</text>
+  </g>
+  <g transform="translate(1082 133)">
+    <circle r="30" fill="#1A1520" stroke="#FFD166" stroke-width="2"/>
+    <circle r="8" fill="#FFD166" filter="url(#glow)"><animate attributeName="r" values="6;9;6" dur="2s" repeatCount="indefinite"/></circle>
+    <text y="-48" text-anchor="middle" fill="#FFD166" font-family="Segoe UI, Arial" font-size="22" font-weight="800">300+</text>
+    <text y="58" text-anchor="middle" fill="#E6EDF7" font-family="Segoe UI, Arial" font-size="14" font-weight="700">Students</text>
+    <text y="78" text-anchor="middle" fill="#8996B3" font-family="Segoe UI, Arial" font-size="12">Enabled</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="url(#path)" stroke-opacity="0.42" stroke-width="2"/>
+</svg>
+
